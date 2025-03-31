@@ -1,2 +1,7 @@
+<<<<<<< HEAD
 # BOOKSTOREFINAL
 CPP_PROJECT
+=======
+# BOOKSTOREE
+CLOUD_PLATFORM_PROJECT
+>>>>>>> d36784f (final commit)
